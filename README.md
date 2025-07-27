@@ -100,8 +100,7 @@ SQL-Excel-and-Power-BI-Data-Analysis-Project/
 ## 👩‍💻 Author
 
 **Sravya Reddy**  
-Frontend Developer | Data Analyst  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sravya-reddy-545632265/)
+Data Analyst 
 
 ---
 

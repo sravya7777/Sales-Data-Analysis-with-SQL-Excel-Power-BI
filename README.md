@@ -61,7 +61,7 @@ The dataset includes the following columns:
 
 > 📍 Replace the below image with your own screenshot after uploading it to your GitHub repo.
 
-![Sales Dashboard Screenshot](https://raw.githubusercontent.com/your-username/your-repo-name/main/dashboard_screenshot.png)
+![Sales Dashboard Screenshot](https://github.com/sravya7777/Sales-Data-Analysis-with-SQL-Excel-Power-BI/blob/main/data-analyst(sale).png)
 
 ---
 
